@@ -1,1 +1,1 @@
-# pages
+[GitHub Pages](https://hrnry.github.io/) redirect to [GitLab](https://gitlab.com/hrnry)
